@@ -1,5 +1,5 @@
 # Decentralized AI Marketplace
-![App Screenshot]([https://github.com/vushakolaPhanindra/ML-Model-Evaluation-App/blob/main/screenshorts%20and%20documentation/Screenshot%202025-04-08%20070809.png](https://github.com/vushakolaPhanindra/Decentralized-AI-Marketplace/blob/Main/screenshorts/home.png))
+![App Screenshot](https://github.com/vushakolaPhanindra/Decentralized-AI-Marketplace/blob/Main/screenshorts/home.png)
 A decentralized marketplace for buying and selling AI datasets using blockchain technology and IPFS for secure, censorship-resistant storage. Built with Solidity, Hardhat, Ethers.js, and Next.js/React, it empowers researchers and organizations to share and monetize datasets transparently.
 
 ---
