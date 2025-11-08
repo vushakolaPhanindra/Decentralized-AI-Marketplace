@@ -103,3 +103,17 @@ Test thoroughly on testnets before deploying to mainnet
 
 Consider gas optimization and reentrancy protection
 
+## 📈 Project Outcomes / Impact
+
+- Promotes **open collaboration** among AI researchers  
+- Enables **transparent monetization** of datasets  
+- Encourages **trustless sharing** without intermediaries  
+- Bridges **AI and blockchain ecosystems**  
+
+---
+
+## 🌐 Connect
+
+- **GitHub:** [@vushakolaPhanindra](https://github.com/vushakolaPhanindra)  
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/vushakola-phanindra-144319298/)  
+- **Email:** [phanivushakola@gmail.com](mailto:vphani141@gmail.com)
