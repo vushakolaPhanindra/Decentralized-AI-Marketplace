@@ -112,8 +112,8 @@ Consider gas optimization and reentrancy protection
 
 ---
 
-## 🌐 Connect
-
-- **GitHub:** [@vushakolaPhanindra](https://github.com/vushakolaPhanindra)  
+## 🌐 Connect 
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/vushakola-phanindra-144319298/)  
 - **Email:** [phanivushakola@gmail.com](mailto:vphani141@gmail.com)
+
+⭐ If you found this project helpful, please consider giving it a star — it really helps support the project!
