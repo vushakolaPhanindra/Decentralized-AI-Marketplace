@@ -38,6 +38,7 @@ Before starting, ensure you have the following installed:
 ## ⚙️ Installation
 # Clone the repository
 git clone https://github.com/vushakolaPhanindra/Decentralized-AI-Marketplace.git
+
 cd Decentralized-AI-Marketplace
 
 # Install dependencies
